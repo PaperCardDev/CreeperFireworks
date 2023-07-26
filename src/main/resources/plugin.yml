@@ -1,0 +1,8 @@
+name: CreeperFireworks
+version: '${project.version}'
+main: cn.paper_card.creeper_fireworks.CreeperFireworks
+api-version: 1.20
+author: Paper99
+description: 烟花苦力怕，苦力怕爆炸会变成烟花爆炸，不会破坏地形，但保留爆炸伤害
+folia-supported: true
+
